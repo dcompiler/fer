@@ -7,3 +7,5 @@ edition = "2021"
 
 [dependencies]
 GSL = "6.0"
+clap = { version = "4.3.12", features = ["derive"]} 
+
